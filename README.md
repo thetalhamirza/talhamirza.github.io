@@ -1,4 +1,4 @@
-# Hey there,
+# Hello World
 
 Welcome! This repository contains a collection of my projects, accomplishments, and experiences.
 
@@ -9,9 +9,9 @@ Hey there! 👋 I'm Talha, a passionate student with an insatiable curiosity for
 ## Projects
 
 ### Project 1: The Uncrackable Password Manager
-- Description: Briefly describe the project, its purpose, and its key features.
-- Technologies Used: List the technologies or tools used in the project.
-- Link: Provide a link to the project's repository or live demo.
+- Description: ...
+- Technologies Used: ...
+- Link: ...
 
 ## Achievements
 
