@@ -29,13 +29,9 @@ Provide details about your educational background. Mention your degrees, majors,
 
 - Email: talhaavgstudent@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/talha-mirza-65b392291/
-- Website: [Your Personal Website URL]
+- Website: [TBA]
 
 Feel free to reach out to me via email or connect with me on LinkedIn. You can also visit my website for more information about my work and projects.
-
-## License
-
-Specify the license under which your portfolio and projects are shared. Choose a license that suits your preferences and intentions regarding the use and distribution of your work.
 
 ---
 
