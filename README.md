@@ -4,7 +4,7 @@ Welcome! This repository contains a collection of my projects, accomplishments, 
 
 ## About Me
 
-Hey there! 👋 I'm Talha, a passionate Pakistani with an insatiable curiosity for all things cyber security, Linux, and ethical hacking. I thrive on the thrill of learning new skills and delving into the depths of technology whenever the opportunity arises.
+Hey there! 👋 I'm Talha, a passionate student with an insatiable curiosity for all things cyber security, Linux, and ethical hacking. I thrive on the thrill of learning new skills and delving into the depths of technology whenever the opportunity arises.
 
 ## Projects
 
